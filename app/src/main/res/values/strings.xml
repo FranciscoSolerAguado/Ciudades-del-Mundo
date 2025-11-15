@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ciudades del Mundo</string>
+
+
+    <string name="titulo_principal">Ciudades del Mundo</string>
+    <string name="titulo_lista">Lista de ciudades</string>
+    <string name="titulo_lista_esp">Ciudades de españa</string>
+    <string name="titulo_agita_para_descubrir">¡Agita para descubrir!</string>
+    <string name="titulo_mapa">Mapa de ciudades</string>
+    <string name="titulo_navegador">Información de la ciudad</string>
+
+
+    <string name="boton_lista">Ciudades del mundo</string>
+    <string name="boton_lista_esp">Ciudades de España</string>
+    <string name="boton_mapa">Ver mapa</string>
+    <string name="boton_navegador">Abrir navegador</string>
+
+
+    <string name="btn_mapa">Mapa</string>
+
+
+    <string name="nombre_ciudad">Nombre Ciudad</string>
+    <string name="pais_ciudad">País</string>
+    <string name="descripcion_ciudad">Descripción corta</string>
+
+    <string name="como_funciona_la_app">¿Cómo funciona la app?</string>
+    <string name="texto_como_funciona_la_app">"Esta aplicación te permite explorar las diferentes ciudades que hay alrededor del planeta, también tenemos un apartado único para las ciudades de nuestro pais. Puedes navegar entre diferentes pantallas para ver detalles sobre cada ciudad."</string>
+    <string name="entendido">Entendido</string>
+
+</resources>

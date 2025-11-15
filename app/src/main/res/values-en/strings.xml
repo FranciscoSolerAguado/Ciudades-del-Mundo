@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cities around the world</string>
+
+    <string name="titulo_principal">Cities around the world</string>
+    <string name="titulo_lista">List of cities</string>
+    <string name="titulo_lista_esp">Cities of Spain</string>
+    <string name="titulo_agita_para_descubrir">Shake to discover new cities</string>
+    <string name="titulo_mapa">Map of cities</string>
+    <string name="titulo_navegador">About the citie</string>
+
+
+    <string name="boton_lista">Cities around the world</string>
+    <string name="boton_lista_esp">Cities of Spain</string>
+    <string name="boton_mapa">See map</string>
+    <string name="boton_navegador">Open in browser</string>
+
+
+    <string name="btn_mapa">Map</string>
+
+
+    <string name="nombre_ciudad">City name</string>
+    <string name="pais_ciudad">Country</string>
+    <string name="descripcion_ciudad">Short Description</string>
+
+    <string name="como_funciona_la_app">How it works</string>
+    <string name="texto_como_funciona_la_app">This app allows you to explore the different cities around the world, and we also have a special section for the cities in our country. You can navigate through different screens to see details about each city.</string>
+    <string name="entendido">Got it</string>
+
+
+</resources>
